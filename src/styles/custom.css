@@ -1,0 +1,34 @@
+body {
+    background: #fcfff5;
+    color: #193441;
+    font-family: 'Roboto';
+}
+
+a {
+    color: #193441;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #91aa9d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3e606f;
+    text-decoration: none;
+}
+
+a:active {
+    color: #3e606f;
+    text-decoration: none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
