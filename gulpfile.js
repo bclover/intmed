@@ -1,8 +1,8 @@
-var gulp        = require("gulp");
-var sass        = require("gulp-ruby-sass");
-var filter      = require('gulp-filter');
+var gulp = require("gulp");
+var sass = require("gulp-ruby-sass");
+var filter = require('gulp-filter');
 var browserSync = require("browser-sync");
-var reload      = browserSync.reload;
+var reload = browserSync.reload;
 
 
 // Watch scss AND html files, doing different things with each.
