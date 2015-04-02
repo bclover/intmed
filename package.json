@@ -5,6 +5,7 @@
   "author": "Bryan Clover",
   "license": "ISC",
   "devDependencies": {
+    "bootstrap": "^3.3.4",
     "browser-sync": "^2.5.2",
     "gulp": "^3.8.11",
     "gulp-filter": "^2.0.2",
